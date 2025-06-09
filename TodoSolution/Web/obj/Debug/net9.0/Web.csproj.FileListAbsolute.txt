@@ -96,3 +96,4 @@ C:\Users\SAMSUNG\Desktop\Ayat\NtierTodoAppHomework\TodoSolution\Web\obj\Debug\ne
 C:\Users\SAMSUNG\Desktop\Ayat\NtierTodoAppHomework\TodoSolution\Web\obj\Debug\net9.0\Web.pdb
 C:\Users\SAMSUNG\Desktop\Ayat\NtierTodoAppHomework\TodoSolution\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
 C:\Users\SAMSUNG\Desktop\Ayat\NtierTodoAppHomework\TodoSolution\Web\obj\Debug\net9.0\ref\Web.dll
+C:\Users\SAMSUNG\Desktop\Ayat\NtierTodoAppHomework\TodoSolution\Web\obj\Debug\net9.0\Web.sourcelink.json
